@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This Project analyzes and visualizes the data using SQL and Tableau
+This Project analyzes and visualizes the data using matplotlib and seaborn
 
 ### Visualization chart
 
