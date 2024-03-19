@@ -2,7 +2,7 @@
 
 This Project analyzes and visualizes the data using matplotlib and seaborn
 
-### Visualization chart
+### Visualization chart for Model Development
 
 ![Correlation chart](Images/chart.png)
 ![chart](Images/chart%201.png)
