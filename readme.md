@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This Project analyzes and visualizes the data using matplotlib and seaborn
+This model development analyzes, visualizes and predicts the survival of passengers.
 
 ### Visualization chart for Model Development
 
